@@ -11647,7 +11647,7 @@ body {
 
 .signup-section {
   padding: 10rem 0;
-  background:  #190b28 100% url("img/bg-signup2.jpg");
+  background:  #190b28 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11765,7 +11765,7 @@ body {
 .album-section {
   padding-top: 15rem;
   padding-bottom: 7rem;
-  background: url("img/bg-signup.jpg");
+  background: #190b28 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
